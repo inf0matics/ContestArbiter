@@ -1,0 +1,8 @@
+## Interface: 11503
+## Title: Contest Arbiter
+## Notes: LogLan 2026 – Turnier Regelprüfung
+## Author: LogLan
+## Version: 0.1.0
+## SavedVariables: ContestArbitrDB
+
+ContestArbiter.lua
